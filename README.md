@@ -1,4 +1,4 @@
-## Todo List Application
+## To Do List Application
 
 This application will manage your to-do list, including adding new items, filtering by due date, and viewing all items.
 
