@@ -130,6 +130,8 @@ public class Controller {
                                 setTextFill(Color.RED);
                             }else if(item.getDeadLine().equals(LocalDate.now().plusDays(1))){
                                 setTextFill(Color.BROWN);
+                            }else{
+                                setTextFill(Color.GREEN);
                             }
                         }
                     }
